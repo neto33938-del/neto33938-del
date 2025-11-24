@@ -40,5 +40,3 @@ Atualmente, estou me aprofundando em **[Banco de dados e Desenvolvimento em FRON
   
 
 ---
-
-**"O aprendizado é um processo contínuo."**
