@@ -19,23 +19,13 @@ Bem-vindo(a) ao meu portfólio no GitHub! Aqui você encontrará alguns dos meus
 
 ### ✨ Projetos em Destaque
 
-Aqui estão alguns dos projetos que tenho trabalhado. Clique neles para ver mais detalhes e o código-fonte!
-
 #### 1. [Sistema de Gerenciamento de Tarefas]
 
 * **Descrição:** Um pequeno aplicativo web desenvolvido para ajudar na organização de tarefas diárias, permitindo adicionar, remover e marcar tarefas como concluídas.
 * **Tecnologias:** Python, Flask, HTML, CSS.
-* **Link do Repositório:** [Academia]
+* **Link do Repositório:** [Academia](https://github.com/neto33938-del/Academia.git)
    
 
-#### 2. [Nome do Projeto 2 - Ex: Análise de Dados de Vendas (em breve)]
-
-* **Descrição:** Projeto em andamento que visa analisar um conjunto de dados de vendas para identificar tendências e *insights* importantes.
-* **Tecnologias:** Python, Pandas, Matplotlib.
-* **Link do Repositório:** [Link para o repositório deste projeto no GitHub (se já existir)]
-    * *(Se ainda não existir, você pode colocar "Repositório em construção")*
-
----
 
 ### 🌱 O Que Estou Aprendendo Agora?
 
