@@ -22,7 +22,7 @@ Bem-vindo(a) ao meu portfólio no GitHub! Aqui você encontrará alguns dos meus
 #### 1. [Sistema de Gerenciamento de Tarefas]
 
 * **Descrição:** Um pequeno aplicativo web desenvolvido para ajudar na organização de tarefas diárias, permitindo adicionar, remover e marcar tarefas como concluídas.
-* **Tecnologias:** Python, Flask, HTML, CSS.
+* **Tecnologias:** HTML, CSS.
 * **Link do Repositório:** [Academia](https://github.com/neto33938-del/Academia.git)
    
 
