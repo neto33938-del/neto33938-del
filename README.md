@@ -1,6 +1,6 @@
 # Olá! 👋 Sou José Domingos Dos Santos Neto
 
-### Estudante de [Seu Curso - ex: Análise e Desenvolvimento de Sistemas] | Entusiasta de Tecnologia
+### Estudante de [Análise e Desenvolvimento de Sistemas]
 
 Bem-vindo(a) ao meu portfólio no GitHub! Aqui você encontrará alguns dos meus projetos e uma amostra do meu trabalho em desenvolvimento. Sou um estudante apaixonado por tecnologia, com foco em área de interesse em analista de dados, ciência de dados, programação back-end. Estou sempre buscando aprender e aplicar novos conhecimentos para resolver problemas e construir soluções inovadoras.
 
